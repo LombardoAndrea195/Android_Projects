@@ -1,0 +1,93 @@
+
+[
+    {
+      "idrace": 1,
+      "Description": "STRALIVIGNO",
+      "Location": "LIVIGNO (SO)",
+      "Distance": 21000,
+      "Date": "2018/07/21 15:00",
+      "Before": "2018/07/19",
+      "url": "http://www.stralivigno.it/  ",
+      "note": "Dalle ore 8.00 alle ore 14.00, distribuzione pettorali Stralivigno e Staffetta c/o Aquagranda Active You, via Rasia",
+      "picture": "http://www.stralivigno.it/dati/img/bld/it/fea_img_val_136/LIV-181768-Pres-Creativa-Logo-Stralivigno-Scarpa-Colour-sito-im310.png"
+    },
+  
+    {
+      "idrace": 2,
+      "Description": "MONTE ROSA EST HIMALAYAN TRAIL",
+      "Location": "Macugnaga (VCO)",
+      "Distance": 60000,
+      "Date": "2018/07/29 04:00",
+      "Before": "2018/07/26",
+      "url": "http://www.meht.it/  ",
+      "note": "Consultare la pagina web per i requisiti di partecipazione e l'attrezzatura obbligatoria",
+      "picture": "http://s3-eu-central-1.amazonaws.com/wpmu-storage/wp-content/uploads/sites/54/2018/02/MEHT_Logo_Sito-small.png"
+    },
+    {
+      "idrace": 3,
+      "Description": "ULTRAMARATONA DEL GRAN SASSO",
+      "Location": "Santo Stefano di Sessanio (AQ)",
+      "Distance": 60000,
+      "Date": "2018/07/29 09:30",
+      "Before": "2018/07/24",
+      "url": "http://ultramgransasso.blogspot.com/  ",
+      "note": "Consultare la pagina web per i requisiti di partecipazione e il regolamento completo",
+      "picture": "http://www.garapodistica.it/MARATONE/Ultramaratona%20GranSasso.jpg"
+    },
+    {
+      "idrace": 4,
+      "Description": "TRE CIME EXPERIENCE",
+      "Location": "Misurina (BL)",
+      "Distance": 42000,
+      "Date": "2018/09/09 08:00",
+      "Before": "2018/08/12",
+      "url": "https://www.trecimeexperience.com/",
+      "note": "Consultare la pagina web per i requisiti di partecipazione e il regolamento completo",
+      "picture": "https://static.wixstatic.com/media/4d4422_4bcc94662bac4421a6f1bbd0856181de~mv2_d_4397_1472_s_2.jpg/v1/fill/w_378,h_126,al_c,q_80,usm_0.66_1.00_0.01/4d4422_4bcc94662bac4421a6f1bbd0856181de~mv2_d_4397_1472_s_2.webp "
+    },
+    {
+      "idrace": 5,
+      "Description": "MARATONA DEL MUGELLO",
+      "Location": "Borgo San Lorenzo (FI)",
+      "Distance": 42195,
+      "Date": "2018/09/22 14:30",
+      "Before": "2018/09/17",
+      "url": "http://www.maratonamugello.it/  ",
+      "note": "Consultare la pagina web per i requisiti di partecipazione e il regolamento completo",
+      "picture": "http://www.garapodistica.it/MARATONE/Maratona%20del%20mugello.jpg"
+    },
+    {
+      "idrace": 6,
+      "Description": "ROME HALF MARATHON VIA PACIS",
+      "Location": "ROMA (RM)",
+      "Distance": 21097,
+      "Date": "2018/09/23 09:00",
+      "Before": "2018/09/17",
+      "url": "http://www.romahalfmarathon.org/",
+      "note": "Consultare la pagina web per i requisiti di partecipazione e il regolamento completo",
+      "picture": "http://www.garapodistica.it/MARATONE/Roma%20Half%20Marathon%20Via%20Pacis.jpg "
+    },
+    {
+      "idrace": 7,
+      "Description": "MEZZA MARATONA DEI CASTELLI ROMANI",
+      "Location": "ALBANO LAZIALE (RM)",
+      "Distance": 20000,
+      "Date": "2018/10/07 09:30",
+      "Before": "2018/09/20",
+      "url": "http://www.amiciparcocastelliromani.it/",
+      "note": "Consultare la pagina web per i requisiti di partecipazione e il regolamento completo",
+      "picture": "http://www.garapodistica.it/MARATONE/castelli%20romani%20mezzammaratona.jpg" },
+    {
+      "idrace": 8,
+      "Description": "SORRENTO POSITANO ULTRAMARATONA",
+      "Location": "Sorrento (NA)",
+      "Distance": 54000,
+      "Date": "2018/12/02 07:00",
+      "Before": "2018/11/28",
+      "url": "http://www.napolirunning.com/",
+      "note": "Consultare la pagina web per i requisiti di partecipazione e il regolamento completo",
+      "picture": "http://www.garapodistica.it/MARATONE/Coast-to-coast%20marathon.jpg"
+    }
+  
+  
+  ]

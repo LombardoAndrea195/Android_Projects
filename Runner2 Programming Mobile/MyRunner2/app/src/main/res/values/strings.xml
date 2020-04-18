@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyRunner2</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="permission_localization">"Location permissions are needed for providing email
+        completions."
+    </string>
+    <string name="confermapost">Clicca per visualizzare</string>
+    <string name="stringaConferma">La prenotazione eseguita è avvenuta con successo</string>
+    <string name="stringaconfermaurl">Per controllare le iscrizioni vedere il seguente link:</string>
+    <string name="noHttp">No connessione HTTP</string>
+    <string name="errorconnection">Errore connessione</string>
+    <string name="urllayout">URL gara</string>
+    <string name="scadenzalayout">Scadenza Prenotazioni</string>
+    <string name="commentoLayout">Commento</string>
+    <string name="iscrivitilayout">Prenota Gara</string>
+    <string name="nomegaralayout">Nome Gara</string>
+    <string name="listagarelayout">Lista Gare</string>
+    <string name="title">RUNNER2</string>
+
+</resources>
