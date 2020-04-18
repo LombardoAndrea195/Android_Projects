@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lombi.cf.MainActivity">
+
+    <EditText
+        android:id="@+id/sesso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignLeft="@+id/luogo"
+        android:layout_alignStart="@+id/luogo"
+        android:layout_below="@+id/luogo"
+        android:layout_marginTop="13dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Inserisci sesso"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="61dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Inserisci il nome"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/cognome"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+
+        android:layout_below="@+id/nome"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Inserisci il cognome"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintVertical_bias="0.074" />
+
+    <EditText
+        android:id="@+id/luogo"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+
+        android:layout_alignTop="@+id/cognome"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Inserisci il luogoNascita"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintVertical_bias="0.074" />
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp"
+        android:text="Calcola" />
+
+    <EditText
+        android:id="@+id/datagiorno"
+        android:layout_width="211dp"
+        android:layout_height="38dp"
+        android:layout_below="@+id/datamese"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-177dp"
+        android:text="Inserisci giorno" />
+
+    <EditText
+        android:id="@+id/datamese"
+        android:layout_width="211dp"
+        android:layout_height="38dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="177dp"
+        android:text="Inserisci mese " />
+
+    <EditText
+        android:id="@+id/dataanno"
+        android:layout_width="211dp"
+        android:layout_height="38dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="90dp"
+        android:text="Inserisci anno" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/datamese"
+        android:layout_alignStart="@+id/sesso"
+        android:text="Inserisci data di nascita con numeri:" />
+
+</RelativeLayout>
